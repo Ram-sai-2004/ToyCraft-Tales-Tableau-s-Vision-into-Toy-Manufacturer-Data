@@ -18,5 +18,4 @@ A data visualization project that explores the toy manufacturing industry throug
 
 ---
 
-## 📁 Project Structure
 
